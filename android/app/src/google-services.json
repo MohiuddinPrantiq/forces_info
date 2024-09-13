@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32836022909",
+    "project_id": "forces-info10",
+    "storage_bucket": "forces-info10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32836022909:android:288b3ff155f62ccf977714",
+        "android_client_info": {
+          "package_name": "com.example.forces_info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbsPVWI8hBHE0cJsDZSnOmoSHR9h1V7oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
